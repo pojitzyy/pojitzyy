@@ -4,7 +4,7 @@ I am a **Fullstack Web Developer** focused on building clean and functional appl
 
 ---
 
-### 🚀 Technical Path (What I'm Mastering)
+### 📚 Technical Path (What I'm Mastering)
 - **Frontend:** Advanced **React 19**, **Next.js 15** (App Router), and **TypeScript**.
 - **Backend:** **Node.js**, **Express.js**, and building **RESTful APIs** with Swagger documentation.
 - **Database & Auth:** **MongoDB (Mongoose)**, **Supabase**, and secure **JWT/Next-Auth** systems.
@@ -33,7 +33,7 @@ I am a **Fullstack Web Developer** focused on building clean and functional appl
 
 ---
 
-### 🤝 Let's Connect
+### 🌐 Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/USERNAME_KAMU" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/USERNAME_KAMU" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
