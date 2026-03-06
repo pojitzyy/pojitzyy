@@ -42,10 +42,11 @@ I am a **Fullstack Web Developer** focused on building clean and functional appl
 
 ---
 
-### 🐍 My Contribution Snake
+### 👾 Activity Games
+
+
 <img src="https://raw.githubusercontent.com/pojitzyy/pojitzyy/output/snake.svg" alt="Snake animation" />
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pojitzyy/pojitzyy/output/pacman-contribution-graph-dark.svg">
