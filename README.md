@@ -1,25 +1,25 @@
 # Hi, I'm Fauzi Akbar (Poji) 👋
 
-A passionate **Fullstack Developer** dedicated to building scalable, high-performance web applications using the **MERN Stack** and **Next.js**. I am a strong advocate for **Clean Code** and **Test-Driven Development**, ensuring that every line of code I write is maintainable, efficient, and modern. Beyond technical skills, I prioritize **clear communication** and **effective collaboration**, making me a reliable partner for remote teams worldwide. I thrive on solving complex problems and staying ahead of the curve by mastering the latest industry-relevant technologies.
+A passionate **Fullstack & Web3 Enthusiast** dedicated to building scalable, high-performance web applications using the **MERN Stack** and **Next.js**. I am a strong advocate for **Clean Code** and **Modular Architecture**, ensuring that every line of code I write is maintainable, efficient, and modern. Beyond traditional web development, I am actively exploring the **Web3 ecosystem**, focusing on decentralized applications (dApps) and blockchain integration. I prioritize **clear communication** and **effective collaboration**, making me a reliable partner for global remote teams.
 
 ---
 
 ### 🚀 What I'm working on
-- 🛠️ Mastering **React.js** & **Next.js** for seamless user experiences.
-- 🌐 Developing robust fullstack applications with the **MERN Stack** (MongoDB, Express, React, Node).
-- ✍️ Practicing **Clean Code** principles to ensure high-quality software delivery.
-- 📢 Improving my **English communication** for global remote collaboration.
+- 🛠️ Mastering **Next.js 14** & **Server Actions** for modern fullstack architecture.
+- 🔗 Deep diving into **Web3 & Smart Contracts** to build decentralized solutions.
+- ✍️ Practicing **Clean Code** & **Solid Principles** for high-quality software delivery.
+- 📢 Improving my **English communication** for seamless global remote collaboration.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
