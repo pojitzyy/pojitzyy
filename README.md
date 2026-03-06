@@ -1,4 +1,7 @@
-# Hi, I'm Fauzi Akbar (Poji) 👋
+<div align="center">
+  <h1>Hi, I'm Fauzi Akbar (Poji) <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="35px"></h1>
+  <p><strong>Fullstack Developer | Clean Code Enthusiast | Modern Web Specialist</strong></p>
+</div>
 
 A results-driven **Fullstack Web Developer** trainee with a deep focus on building modern, scalable, and high-performance applications. I am currently mastering the **MERN Stack** and **Next.js 15** ecosystem through an intensive curriculum. I am a strong advocate for **Clean Code**, **Functional Programming**, and **Agile Methodology (Scrum)**. My goal is to craft seamless user experiences while maintaining a robust and "clean" backend architecture.
 
